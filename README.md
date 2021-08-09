@@ -4,7 +4,7 @@ Companion code to our 2021 [publication](https://doi.org/10.1016/j.matchar.2021.
 
 ## Installation
 
-We recommend installing Python > 3.6 and the dependencies listed in requirements.txt in a fresh environment.
+We recommend installing Python > 3.6 and the dependencies listed in `requirements.txt` in a fresh environment.
 
 ## Testing the code
 
